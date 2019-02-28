@@ -1,0 +1,3 @@
+[submodule "/data/www/api/php/laravel"]
+	path = /data/www/api/php/laravel
+	url = https://github.com/laravel/laravel.git
